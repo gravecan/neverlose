@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "chatpaches",
+  "version": "1.0.0",
+  "name": "Fast iP Ping",
+  "description": "Yeet the laggy reversed DNS lookup for literal IP server addresses",
+  "icon": "assets/chatpaches/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "a.CombatClientInitializer"
+    ]
+  },
+  "mixins": [
+    "chatpaches.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.15.0",
+    "minecraft": "1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}
