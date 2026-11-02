@@ -3,6 +3,10 @@ owned by 2 poor fags that cant do even make a basic ass cheat <br>
 the big tosloi cracked + open sourced ts <br>
 
 # pics
+bread is when u make "$35" <br>
+<img width="673" height="340" alt="image" src="https://github.com/user-attachments/assets/be44901f-26ff-4146-8545-8f10fa04a221" />
+banned me right after this btw LOLLOLOL
+<img width="686" height="613" alt="image" src="https://github.com/user-attachments/assets/457be974-89f5-46b0-b11a-bc3d1f4434b4" />
 <img width="449" height="160" alt="image" src="https://github.com/user-attachments/assets/5b0f9a18-b4f3-45e4-8889-7190274fa5f5" />
 <img width="1116" height="518" alt="image" src="https://github.com/user-attachments/assets/64386e6c-b4be-46e2-9d1b-23c2cb03951e" />
 <img width="542" height="445" alt="image" src="https://github.com/user-attachments/assets/c638c5fb-cb0e-4b84-8403-621fe207988a" />
